@@ -1,0 +1,87 @@
+*{margin: 0px;
+padding: 0px;}
+ 
+
+.first_div{
+    background: #9595d8;
+    color: black;
+    height: 60px;
+	line-height:45px;
+	padding:0px 10px;
+}
+a{font-size:22px;}
+button.btn.btn-outline-success.my-2.my-sm-0.head_button {
+    background: green;
+    color: black;
+}
+
+
+
+
+img {height:500px;}
+.slid_div{width:1080px;
+    margin-left:15px;}
+    
+
+   
+
+
+    #main{width:300px;
+        text-align:center;
+    height:350px;
+    float: left;
+    margin-left:45px !important;
+    margin:20px ;
+        font-family:arial;
+    box-shadow: 10px 10px 40px darkgray;}
+
+    #span1{color:#888;
+        font-size:25px;
+        background:#F0F8FF;
+        padding:0px 18px;
+        margin:2px;
+        }
+    #span2{color:black;
+            font-size:30px;
+            margin-top:20px;
+            }
+     p{color:#888;}
+     .third_section footer a{text-decoration: none;
+        color:white;
+         text-align: center;}
+    footer{background-color: brown;
+            width:120px;
+        margin-left: 90px;}
+
+    .third_section #main footer.seo_p {
+            margin-top: 40px;}
+          
+ 
+
+#title_aboutUs{border-bottom: 2px solid #888;}
+#title_aboutUs span{
+                    font-size: 50px;
+                margin-left: 500px;}
+
+    #aboutImage{width:30%;
+        float: left;
+          
+            border: 3px solid #248861;
+        }
+
+    .about_image{width:100%;
+                height:275px;}
+
+    .aboutContent{width:70%;
+        background-color:rgb(20, 18, 22);
+                    float: left;
+                padding:20px 60px;
+            padding-left: 150px;}
+#abouth{color:white;}
+
+big {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 450px;
+}
+       
